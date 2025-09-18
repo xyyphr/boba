@@ -1,5 +1,6 @@
 body {
-    background-image: linear-gradient(to bottom right, green, teal) 
+    background-image: linear-gradient(to bottom right, green, teal);
+    color: white;
 }
 
 p {
